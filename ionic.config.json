@@ -1,0 +1,7 @@
+{
+  "name": "pushdown-automata",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
